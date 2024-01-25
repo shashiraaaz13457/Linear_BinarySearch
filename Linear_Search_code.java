@@ -12,7 +12,7 @@ public class Linear_Search_code {
             return -1;
         }
         for (int i = 0; i < arr.length; i++) {
-            //check for element at every index if it is = target
+            //check for element at every index if it is = target..
             if (arr[i] == target){
                 return i;
             }
