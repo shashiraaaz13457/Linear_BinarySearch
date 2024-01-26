@@ -1,3 +1,4 @@
+package Linear.Search;
 public class Linear_Search_code {
     public static void main(String[] args) {
         int[] nums = {23,1,45,2,8,16,19,-9};
